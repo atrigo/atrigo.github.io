@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Electrical Engineering - Branch of Informatics, Coimbra University, 1999
+* Ph.D in Informatics, University of Trás-os-Montes and Alto Douro (UTAD), 2009
 
 Work experience
 ======
